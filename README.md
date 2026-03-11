@@ -8,6 +8,4 @@ Excel dataset
 Data visualization
 
 ## Key Insights
-• Delay trends across cities  
- 
 
