@@ -4,6 +4,5 @@ In this project, I built an interactive Power BI dashboard to analyze public tra
 
 ## Tools Used
 Power BI  
-Excel dataset  
-Data visualization
+Excel dataset 
 
