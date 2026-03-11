@@ -7,5 +7,3 @@ Power BI
 Excel dataset  
 Data visualization
 
-## Key Insights
-
